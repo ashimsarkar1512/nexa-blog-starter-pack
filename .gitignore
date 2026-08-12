@@ -32,14 +32,11 @@ pnpm-debug.log*
 .env.development.local
 .env.test.local
 .env.production.local
+.env
 
 # vercel
 .vercel
 
-# typescript
-*.tsbuildinfo
-next-env.d.ts
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
-config.bat
